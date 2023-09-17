@@ -1,0 +1,47 @@
+.heading {
+  text-align: center;
+  font-family: 'Roboto';
+  font-size: 46px;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+span {
+  color: #4c63b6;
+}
+.create-task {
+  margin-top: 50px;
+  font-size: 20px;
+}
+.input-text {
+  background-color: white;
+  width: 100%;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #e4e7eb;
+  border-radius: 10px;
+  padding: 15px;
+}
+.add-btn {
+  color: white;
+  background-color: #4c63b6;
+  font-family: 'Roboto';
+  font-size: 18px;
+  border-width: 0;
+  border-radius: 4px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 20px;
+  padding-left: 20px;
+  cursor: pointer;
+}
+.todos-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.my-tasks {
+  font-size: 20px;
+}
